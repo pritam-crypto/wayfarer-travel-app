@@ -103,3 +103,22 @@ src/
 - **Live link**: the URL from step 4.
 - **APIs used**: OpenWeather (weather + geocoding), Pexels (images), Google Gemini (AI chat + itinerary).
 - Screenshots: take a few of the landing page, explorer, a destination page, and the itinerary view once your keys are in and the app is running.
+
+
+
+
+
+
+
+
+## Screenshots
+
+<img width="1730" height="967" alt="Screenshot (503)" src="https://github.com/user-attachments/assets/519dc01d-9469-40b2-b624-b454669d5157" />
+
+<img width="1759" height="963" alt="Screenshot (504)" src="https://github.com/user-attachments/assets/f867f061-d0f2-4978-9e96-da98e61f5965" />
+
+<img width="1726" height="952" alt="Screenshot (505)" src="https://github.com/user-attachments/assets/872864c5-3329-4491-83ac-09a5f63838b7" />
+
+
+
+
